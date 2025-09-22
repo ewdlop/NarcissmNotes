@@ -7,9 +7,9 @@ This repository contains educational notes comparing strategies for understandin
 ### Understanding the Differences
 
 #### Borderline Personality Disorder (BPD)
-- **Core Features**: Fear of abandonment, unstable relationships, identity disturbance, impulsivity
+- **Core Features**: Fear of abandonment, unstable relationships, identity disturbance, impulsivity <--- database
 - **Emotional Pattern**: Intense emotions with rapid changes, often triggered by perceived rejection
-- **Relationship Dynamics**: Push-pull patterns, idealization followed by devaluation
+- **Relationship Dynamics**: Push-pull patterns, idealization followed by devaluation 
 - **Self-Image**: Chronic feelings of emptiness, unstable sense of self
 
 #### Narcissistic Personality Disorder (NPD)
